@@ -1,2 +1,2 @@
-file standardScans_settings.req P=D08:
-file saveData_settings.req P=D08:
+file standardScans_settings.req P=Test:
+file saveData_settings.req P=Test:
