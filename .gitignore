@@ -7,3 +7,5 @@ bin/
 /include/
 envPaths
 *.sw?
+autosave/sav/
+autosave/req/info*.req
