@@ -1,4 +1,4 @@
-#!../../bin/linux-x86_64/scan
+#!../../bin/darwin-x86/scan
 
 ## You may have to change scan to something else
 ## everywhere it appears in this file
