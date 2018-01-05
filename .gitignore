@@ -1,0 +1,9 @@
+O.Common/
+O.darwin-x86/
+/db/
+dbd/
+lib/
+bin/
+/include/
+envPaths
+*.sw?
