@@ -5,11 +5,11 @@
 
 < envPaths
 
-epicsEnvSet("Sys", "D08:")
+epicsEnvSet("Sys", "Test:")
 epicsEnvSet("Dev", "")
 epicsEnvSet("MaxScanPts", "4000")
-epicsEnvSet("PREFIX", "D08:")
-epicsEnvSet("IOC_PREFIX", "D08-CS-IOC-SCAN01")
+epicsEnvSet("PREFIX", "Test:")
+epicsEnvSet("IOC_PREFIX", "Test:Scan")
 epicsEnvSet("AS_PATH", "${TOP}/autosave")
 epicsEnvSet("EPICS_CA_MAX_ARRAY_BYTES", "100000")
 epicsEnvSet("EPICS_CA_ADDR_LIST", "10.3.1.255")
