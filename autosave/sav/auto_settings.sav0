@@ -1,0 +1,619 @@
+# autosave R5.3	Automatically generated - DO NOT MODIFY - 171020-172754
+D08:scan1.ATIME 0
+D08:scan1.COPYTO 0
+D08:scan1.AAWAIT 1
+D08:scan1.FLNK 0
+D08:scan1.NPTS 11
+D08:scan1.ACQT 0
+D08:scan1.ACQM 0
+D08:scan1.PASM 0
+D08:scan1.BSPV 
+D08:scan1.BSCD 1
+D08:scan1.BSWAIT 0
+D08:scan1.ASPV 
+D08:scan1.ASCD 1
+D08:scan1.ASWAIT 0
+D08:scan1.T1PV 
+D08:scan1.T1CD 1
+D08:scan1.T2PV 
+D08:scan1.T2CD 1
+D08:scan1.T3PV 
+D08:scan1.T3CD 1
+D08:scan1.T4PV 
+D08:scan1.T4CD 1
+D08:scan1.P1PV D08-OP-VCM:linr.VAL
+D08:scan1.R1PV 
+D08:scan1.P1SM 0
+D08:scan1.P1SP 0
+D08:scan1.P1EP 100
+D08:scan1.P1AR 0
+D08:scan1.P2PV 
+D08:scan1.R2PV 
+D08:scan1.P2SM 0
+D08:scan1.P2SP 0
+D08:scan1.P2EP 0
+D08:scan1.P2AR 0
+D08:scan1.P3PV 
+D08:scan1.R3PV 
+D08:scan1.P3SM 0
+D08:scan1.P3SP 0
+D08:scan1.P3EP 0
+D08:scan1.P3AR 0
+D08:scan1.P4PV 
+D08:scan1.R4PV 
+D08:scan1.P4SM 0
+D08:scan1.P4SP 0
+D08:scan1.P4EP 0
+D08:scan1.P4AR 0
+D08:scan1.PDLY 0
+D08:scan1.DDLY 0
+D08:scan1.REFD 1
+D08:scan1.AWCT 0
+D08:scan1.A1PV 
+D08:scan1.A1CD 1
+D08:scan1.D01PV 
+D08:scan1.D02PV 
+D08:scan1.D03PV 
+D08:scan1.D04PV 
+D08:scan1.D05PV 
+D08:scan1.D06PV 
+D08:scan1.D07PV 
+D08:scan1.D08PV 
+D08:scan1.D09PV 
+D08:scan1.D10PV 
+D08:scan1.D11PV 
+D08:scan1.D12PV 
+D08:scan1.D13PV 
+D08:scan1.D14PV 
+D08:scan1.D15PV 
+D08:scan1.D16PV 
+D08:scan1.D17PV 
+D08:scan1.D18PV 
+D08:scan1.D19PV 
+D08:scan1.D20PV 
+D08:scan1.D21PV 
+D08:scan1.D22PV 
+D08:scan1.D23PV 
+D08:scan1.D24PV 
+D08:scan1.D25PV 
+D08:scan1.D26PV 
+D08:scan1.D27PV 
+D08:scan1.D28PV 
+D08:scan1.D29PV 
+D08:scan1.D30PV 
+D08:scan1.D31PV 
+D08:scan1.D32PV 
+D08:scan1.D33PV 
+D08:scan1.D34PV 
+D08:scan1.D35PV 
+D08:scan1.D36PV 
+D08:scan1.D37PV 
+D08:scan1.D38PV 
+D08:scan1.D39PV 
+D08:scan1.D40PV 
+D08:scan1.D41PV 
+D08:scan1.D42PV 
+D08:scan1.D43PV 
+D08:scan1.D44PV 
+D08:scan1.D45PV 
+D08:scan1.D46PV 
+D08:scan1.D47PV 
+D08:scan1.D48PV 
+D08:scan1.D49PV 
+D08:scan1.D50PV 
+D08:scan1.D51PV 
+D08:scan1.D52PV 
+D08:scan1.D53PV 
+D08:scan1.D54PV 
+D08:scan1.D55PV 
+D08:scan1.D56PV 
+D08:scan1.D57PV 
+D08:scan1.D58PV 
+D08:scan1.D59PV 
+D08:scan1.D60PV 
+D08:scan1.D61PV 
+D08:scan1.D62PV 
+D08:scan1.D63PV 
+D08:scan1.D64PV 
+D08:scan1.D65PV 
+D08:scan1.D66PV 
+D08:scan1.D67PV 
+D08:scan1.D68PV 
+D08:scan1.D69PV 
+D08:scan1.D70PV 
+D08:scan2.ATIME 0
+D08:scan2.COPYTO 0
+D08:scan2.AAWAIT 1
+D08:scan2.FLNK 0
+D08:scan2.NPTS 10
+D08:scan2.ACQT 0
+D08:scan2.ACQM 0
+D08:scan2.PASM 0
+D08:scan2.BSPV 
+D08:scan2.BSCD 1
+D08:scan2.BSWAIT 0
+D08:scan2.ASPV 
+D08:scan2.ASCD 1
+D08:scan2.ASWAIT 0
+D08:scan2.T1PV D08:scan1.EXSC
+D08:scan2.T1CD 1
+D08:scan2.T2PV 
+D08:scan2.T2CD 1
+D08:scan2.T3PV 
+D08:scan2.T3CD 1
+D08:scan2.T4PV 
+D08:scan2.T4CD 1
+D08:scan2.P1PV 
+D08:scan2.R1PV 
+D08:scan2.P1SM 0
+D08:scan2.P1SP 0
+D08:scan2.P1EP 0
+D08:scan2.P1AR 0
+D08:scan2.P2PV 
+D08:scan2.R2PV 
+D08:scan2.P2SM 0
+D08:scan2.P2SP 0
+D08:scan2.P2EP 0
+D08:scan2.P2AR 0
+D08:scan2.P3PV 
+D08:scan2.R3PV 
+D08:scan2.P3SM 0
+D08:scan2.P3SP 0
+D08:scan2.P3EP 0
+D08:scan2.P3AR 0
+D08:scan2.P4PV 
+D08:scan2.R4PV 
+D08:scan2.P4SM 0
+D08:scan2.P4SP 0
+D08:scan2.P4EP 0
+D08:scan2.P4AR 0
+D08:scan2.PDLY 0
+D08:scan2.DDLY 0
+D08:scan2.REFD 1
+D08:scan2.AWCT 0
+D08:scan2.A1PV 
+D08:scan2.A1CD 1
+D08:scan2.D01PV 
+D08:scan2.D02PV 
+D08:scan2.D03PV 
+D08:scan2.D04PV 
+D08:scan2.D05PV 
+D08:scan2.D06PV 
+D08:scan2.D07PV 
+D08:scan2.D08PV 
+D08:scan2.D09PV 
+D08:scan2.D10PV 
+D08:scan2.D11PV 
+D08:scan2.D12PV 
+D08:scan2.D13PV 
+D08:scan2.D14PV 
+D08:scan2.D15PV 
+D08:scan2.D16PV 
+D08:scan2.D17PV 
+D08:scan2.D18PV 
+D08:scan2.D19PV 
+D08:scan2.D20PV 
+D08:scan2.D21PV 
+D08:scan2.D22PV 
+D08:scan2.D23PV 
+D08:scan2.D24PV 
+D08:scan2.D25PV 
+D08:scan2.D26PV 
+D08:scan2.D27PV 
+D08:scan2.D28PV 
+D08:scan2.D29PV 
+D08:scan2.D30PV 
+D08:scan2.D31PV 
+D08:scan2.D32PV 
+D08:scan2.D33PV 
+D08:scan2.D34PV 
+D08:scan2.D35PV 
+D08:scan2.D36PV 
+D08:scan2.D37PV 
+D08:scan2.D38PV 
+D08:scan2.D39PV 
+D08:scan2.D40PV 
+D08:scan2.D41PV 
+D08:scan2.D42PV 
+D08:scan2.D43PV 
+D08:scan2.D44PV 
+D08:scan2.D45PV 
+D08:scan2.D46PV 
+D08:scan2.D47PV 
+D08:scan2.D48PV 
+D08:scan2.D49PV 
+D08:scan2.D50PV 
+D08:scan2.D51PV 
+D08:scan2.D52PV 
+D08:scan2.D53PV 
+D08:scan2.D54PV 
+D08:scan2.D55PV 
+D08:scan2.D56PV 
+D08:scan2.D57PV 
+D08:scan2.D58PV 
+D08:scan2.D59PV 
+D08:scan2.D60PV 
+D08:scan2.D61PV 
+D08:scan2.D62PV 
+D08:scan2.D63PV 
+D08:scan2.D64PV 
+D08:scan2.D65PV 
+D08:scan2.D66PV 
+D08:scan2.D67PV 
+D08:scan2.D68PV 
+D08:scan2.D69PV 
+D08:scan2.D70PV 
+D08:scan3.ATIME 0
+D08:scan3.COPYTO 0
+D08:scan3.AAWAIT 1
+D08:scan3.FLNK 0
+D08:scan3.NPTS 10
+D08:scan3.ACQT 0
+D08:scan3.ACQM 0
+D08:scan3.PASM 0
+D08:scan3.BSPV 
+D08:scan3.BSCD 1
+D08:scan3.BSWAIT 0
+D08:scan3.ASPV 
+D08:scan3.ASCD 1
+D08:scan3.ASWAIT 0
+D08:scan3.T1PV D08:scan2.EXSC
+D08:scan3.T1CD 1
+D08:scan3.T2PV 
+D08:scan3.T2CD 1
+D08:scan3.T3PV 
+D08:scan3.T3CD 1
+D08:scan3.T4PV 
+D08:scan3.T4CD 1
+D08:scan3.P1PV 
+D08:scan3.R1PV 
+D08:scan3.P1SM 0
+D08:scan3.P1SP 0
+D08:scan3.P1EP 0
+D08:scan3.P1AR 0
+D08:scan3.P2PV 
+D08:scan3.R2PV 
+D08:scan3.P2SM 0
+D08:scan3.P2SP 0
+D08:scan3.P2EP 0
+D08:scan3.P2AR 0
+D08:scan3.P3PV 
+D08:scan3.R3PV 
+D08:scan3.P3SM 0
+D08:scan3.P3SP 0
+D08:scan3.P3EP 0
+D08:scan3.P3AR 0
+D08:scan3.P4PV 
+D08:scan3.R4PV 
+D08:scan3.P4SM 0
+D08:scan3.P4SP 0
+D08:scan3.P4EP 0
+D08:scan3.P4AR 0
+D08:scan3.PDLY 0
+D08:scan3.DDLY 0
+D08:scan3.REFD 1
+D08:scan3.AWCT 0
+D08:scan3.A1PV 
+D08:scan3.A1CD 1
+D08:scan3.D01PV 
+D08:scan3.D02PV 
+D08:scan3.D03PV 
+D08:scan3.D04PV 
+D08:scan3.D05PV 
+D08:scan3.D06PV 
+D08:scan3.D07PV 
+D08:scan3.D08PV 
+D08:scan3.D09PV 
+D08:scan3.D10PV 
+D08:scan3.D11PV 
+D08:scan3.D12PV 
+D08:scan3.D13PV 
+D08:scan3.D14PV 
+D08:scan3.D15PV 
+D08:scan3.D16PV 
+D08:scan3.D17PV 
+D08:scan3.D18PV 
+D08:scan3.D19PV 
+D08:scan3.D20PV 
+D08:scan3.D21PV 
+D08:scan3.D22PV 
+D08:scan3.D23PV 
+D08:scan3.D24PV 
+D08:scan3.D25PV 
+D08:scan3.D26PV 
+D08:scan3.D27PV 
+D08:scan3.D28PV 
+D08:scan3.D29PV 
+D08:scan3.D30PV 
+D08:scan3.D31PV 
+D08:scan3.D32PV 
+D08:scan3.D33PV 
+D08:scan3.D34PV 
+D08:scan3.D35PV 
+D08:scan3.D36PV 
+D08:scan3.D37PV 
+D08:scan3.D38PV 
+D08:scan3.D39PV 
+D08:scan3.D40PV 
+D08:scan3.D41PV 
+D08:scan3.D42PV 
+D08:scan3.D43PV 
+D08:scan3.D44PV 
+D08:scan3.D45PV 
+D08:scan3.D46PV 
+D08:scan3.D47PV 
+D08:scan3.D48PV 
+D08:scan3.D49PV 
+D08:scan3.D50PV 
+D08:scan3.D51PV 
+D08:scan3.D52PV 
+D08:scan3.D53PV 
+D08:scan3.D54PV 
+D08:scan3.D55PV 
+D08:scan3.D56PV 
+D08:scan3.D57PV 
+D08:scan3.D58PV 
+D08:scan3.D59PV 
+D08:scan3.D60PV 
+D08:scan3.D61PV 
+D08:scan3.D62PV 
+D08:scan3.D63PV 
+D08:scan3.D64PV 
+D08:scan3.D65PV 
+D08:scan3.D66PV 
+D08:scan3.D67PV 
+D08:scan3.D68PV 
+D08:scan3.D69PV 
+D08:scan3.D70PV 
+D08:scan4.ATIME 0
+D08:scan4.COPYTO 0
+D08:scan4.AAWAIT 1
+D08:scan4.FLNK 0
+D08:scan4.NPTS 10
+D08:scan4.ACQT 0
+D08:scan4.ACQM 0
+D08:scan4.PASM 0
+D08:scan4.BSPV 
+D08:scan4.BSCD 1
+D08:scan4.BSWAIT 0
+D08:scan4.ASPV 
+D08:scan4.ASCD 1
+D08:scan4.ASWAIT 0
+D08:scan4.T1PV D08:scan3.EXSC
+D08:scan4.T1CD 1
+D08:scan4.T2PV 
+D08:scan4.T2CD 1
+D08:scan4.T3PV 
+D08:scan4.T3CD 1
+D08:scan4.T4PV 
+D08:scan4.T4CD 1
+D08:scan4.P1PV 
+D08:scan4.R1PV 
+D08:scan4.P1SM 0
+D08:scan4.P1SP 0
+D08:scan4.P1EP 0
+D08:scan4.P1AR 0
+D08:scan4.P2PV 
+D08:scan4.R2PV 
+D08:scan4.P2SM 0
+D08:scan4.P2SP 0
+D08:scan4.P2EP 0
+D08:scan4.P2AR 0
+D08:scan4.P3PV 
+D08:scan4.R3PV 
+D08:scan4.P3SM 0
+D08:scan4.P3SP 0
+D08:scan4.P3EP 0
+D08:scan4.P3AR 0
+D08:scan4.P4PV 
+D08:scan4.R4PV 
+D08:scan4.P4SM 0
+D08:scan4.P4SP 0
+D08:scan4.P4EP 0
+D08:scan4.P4AR 0
+D08:scan4.PDLY 0
+D08:scan4.DDLY 0
+D08:scan4.REFD 1
+D08:scan4.AWCT 0
+D08:scan4.A1PV 
+D08:scan4.A1CD 1
+D08:scan4.D01PV 
+D08:scan4.D02PV 
+D08:scan4.D03PV 
+D08:scan4.D04PV 
+D08:scan4.D05PV 
+D08:scan4.D06PV 
+D08:scan4.D07PV 
+D08:scan4.D08PV 
+D08:scan4.D09PV 
+D08:scan4.D10PV 
+D08:scan4.D11PV 
+D08:scan4.D12PV 
+D08:scan4.D13PV 
+D08:scan4.D14PV 
+D08:scan4.D15PV 
+D08:scan4.D16PV 
+D08:scan4.D17PV 
+D08:scan4.D18PV 
+D08:scan4.D19PV 
+D08:scan4.D20PV 
+D08:scan4.D21PV 
+D08:scan4.D22PV 
+D08:scan4.D23PV 
+D08:scan4.D24PV 
+D08:scan4.D25PV 
+D08:scan4.D26PV 
+D08:scan4.D27PV 
+D08:scan4.D28PV 
+D08:scan4.D29PV 
+D08:scan4.D30PV 
+D08:scan4.D31PV 
+D08:scan4.D32PV 
+D08:scan4.D33PV 
+D08:scan4.D34PV 
+D08:scan4.D35PV 
+D08:scan4.D36PV 
+D08:scan4.D37PV 
+D08:scan4.D38PV 
+D08:scan4.D39PV 
+D08:scan4.D40PV 
+D08:scan4.D41PV 
+D08:scan4.D42PV 
+D08:scan4.D43PV 
+D08:scan4.D44PV 
+D08:scan4.D45PV 
+D08:scan4.D46PV 
+D08:scan4.D47PV 
+D08:scan4.D48PV 
+D08:scan4.D49PV 
+D08:scan4.D50PV 
+D08:scan4.D51PV 
+D08:scan4.D52PV 
+D08:scan4.D53PV 
+D08:scan4.D54PV 
+D08:scan4.D55PV 
+D08:scan4.D56PV 
+D08:scan4.D57PV 
+D08:scan4.D58PV 
+D08:scan4.D59PV 
+D08:scan4.D60PV 
+D08:scan4.D61PV 
+D08:scan4.D62PV 
+D08:scan4.D63PV 
+D08:scan4.D64PV 
+D08:scan4.D65PV 
+D08:scan4.D66PV 
+D08:scan4.D67PV 
+D08:scan4.D68PV 
+D08:scan4.D69PV 
+D08:scan4.D70PV 
+D08:scanH.ATIME 0
+D08:scanH.COPYTO 0
+D08:scanH.AAWAIT 1
+D08:scanH.FLNK 0
+D08:scanH.NPTS 10
+D08:scanH.ACQT 1
+D08:scanH.ACQM 0
+D08:scanH.PASM 0
+D08:scanH.BSPV 
+D08:scanH.BSCD 1
+D08:scanH.BSWAIT 0
+D08:scanH.ASPV 
+D08:scanH.ASCD 1
+D08:scanH.ASWAIT 0
+D08:scanH.T1PV 
+D08:scanH.T1CD 1
+D08:scanH.T2PV 
+D08:scanH.T2CD 1
+D08:scanH.T3PV 
+D08:scanH.T3CD 1
+D08:scanH.T4PV 
+D08:scanH.T4CD 1
+D08:scanH.P1PV 
+D08:scanH.R1PV 
+D08:scanH.P1SM 0
+D08:scanH.P1SP 0
+D08:scanH.P1EP 0
+D08:scanH.P1AR 0
+D08:scanH.P2PV 
+D08:scanH.R2PV 
+D08:scanH.P2SM 0
+D08:scanH.P2SP 0
+D08:scanH.P2EP 0
+D08:scanH.P2AR 0
+D08:scanH.P3PV 
+D08:scanH.R3PV 
+D08:scanH.P3SM 0
+D08:scanH.P3SP 0
+D08:scanH.P3EP 0
+D08:scanH.P3AR 0
+D08:scanH.P4PV 
+D08:scanH.R4PV 
+D08:scanH.P4SM 0
+D08:scanH.P4SP 0
+D08:scanH.P4EP 0
+D08:scanH.P4AR 0
+D08:scanH.PDLY 0
+D08:scanH.DDLY 0
+D08:scanH.REFD 1
+D08:scanH.AWCT 0
+D08:scanH.A1PV 
+D08:scanH.A1CD 1
+D08:scanH.D01PV 
+D08:scanH.D02PV 
+D08:scanH.D03PV 
+D08:scanH.D04PV 
+D08:scanH.D05PV 
+D08:scanH.D06PV 
+D08:scanH.D07PV 
+D08:scanH.D08PV 
+D08:scanH.D09PV 
+D08:scanH.D10PV 
+D08:scanH.D11PV 
+D08:scanH.D12PV 
+D08:scanH.D13PV 
+D08:scanH.D14PV 
+D08:scanH.D15PV 
+D08:scanH.D16PV 
+D08:scanH.D17PV 
+D08:scanH.D18PV 
+D08:scanH.D19PV 
+D08:scanH.D20PV 
+D08:scanH.D21PV 
+D08:scanH.D22PV 
+D08:scanH.D23PV 
+D08:scanH.D24PV 
+D08:scanH.D25PV 
+D08:scanH.D26PV 
+D08:scanH.D27PV 
+D08:scanH.D28PV 
+D08:scanH.D29PV 
+D08:scanH.D30PV 
+D08:scanH.D31PV 
+D08:scanH.D32PV 
+D08:scanH.D33PV 
+D08:scanH.D34PV 
+D08:scanH.D35PV 
+D08:scanH.D36PV 
+D08:scanH.D37PV 
+D08:scanH.D38PV 
+D08:scanH.D39PV 
+D08:scanH.D40PV 
+D08:scanH.D41PV 
+D08:scanH.D42PV 
+D08:scanH.D43PV 
+D08:scanH.D44PV 
+D08:scanH.D45PV 
+D08:scanH.D46PV 
+D08:scanH.D47PV 
+D08:scanH.D48PV 
+D08:scanH.D49PV 
+D08:scanH.D50PV 
+D08:scanH.D51PV 
+D08:scanH.D52PV 
+D08:scanH.D53PV 
+D08:scanH.D54PV 
+D08:scanH.D55PV 
+D08:scanH.D56PV 
+D08:scanH.D57PV 
+D08:scanH.D58PV 
+D08:scanH.D59PV 
+D08:scanH.D60PV 
+D08:scanH.D61PV 
+D08:scanH.D62PV 
+D08:scanH.D63PV 
+D08:scanH.D64PV 
+D08:scanH.D65PV 
+D08:scanH.D66PV 
+D08:scanH.D67PV 
+D08:scanH.D68PV 
+D08:scanH.D69PV 
+D08:scanH.D70PV 
+D08:saveData_fileSystem /Users/wayne
+D08:saveData_subDir tmp
+D08:saveData_baseName test
+D08:saveData_scanNumber 31
+D08:saveData_realTime1D 0
+D08:saveData_maxAllowedRetries 10
+D08:saveData_retryWaitInSecs 15
+<END>
