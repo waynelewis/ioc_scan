@@ -12,8 +12,8 @@ epicsEnvSet("PREFIX", "Test:")
 epicsEnvSet("IOC_PREFIX", "Test:Scan")
 epicsEnvSet("AS_PATH", "${TOP}/autosave")
 epicsEnvSet("EPICS_CA_MAX_ARRAY_BYTES", "100000")
-epicsEnvSet("EPICS_CA_ADDR_LIST", "10.3.1.255")
-epicsEnvSet("EPICS_CA_AUTO_ADDR_LIST", "NO")
+#epicsEnvSet("EPICS_CA_ADDR_LIST", "10.3.1.255")
+#epicsEnvSet("EPICS_CA_AUTO_ADDR_LIST", "NO")
 
 cd $(TOP)
 
