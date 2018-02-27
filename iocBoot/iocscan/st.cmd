@@ -1,4 +1,4 @@
-#!../../bin/darwin-x86/scan
+#!../../bin/linux-x86_64/scan
 
 ## You may have to change scan to something else
 ## everywhere it appears in this file
@@ -12,8 +12,6 @@ epicsEnvSet("PREFIX", "Test:")
 epicsEnvSet("IOC_PREFIX", "Test:Scan")
 epicsEnvSet("AS_PATH", "${TOP}/autosave")
 epicsEnvSet("EPICS_CA_MAX_ARRAY_BYTES", "100000")
-#epicsEnvSet("EPICS_CA_ADDR_LIST", "10.3.1.255")
-#epicsEnvSet("EPICS_CA_AUTO_ADDR_LIST", "NO")
 
 cd $(TOP)
 
@@ -25,7 +23,6 @@ scan_registerRecordDeviceDriver(pdbbase)
 dbLoadRecords("db/scan.db","P=$(Sys)$(Dev),MAXPTS1=$(MaxScanPts),MAXPTS2=$(MaxScanPts),MAXPTS3=$(MaxScanPts),MAXPTS4=$(MaxScanPts),MAXPTSH=$(MaxScanPts)")
 dbLoadRecords("db/saveData.db","P=$(Sys)$(Dev)")
 
-dbLoadRecords("db/iocAdminSoft.db", "IOC=$(IOC_PREFIX)")
 dbLoadRecords("db/save_restoreStatus.db", "P=$(IOC_PREFIX):")
 
 save_restoreSet_Debug(0)

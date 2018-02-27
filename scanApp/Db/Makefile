@@ -12,7 +12,6 @@ include $(TOP)/configure/CONFIG
 # databases, templates, substitutions like this
 DB += scan.db
 DB += $(SSCAN)/sscanApp/Db/saveData.db
-DB += $(DEVIOCSTATS)/db/iocAdminSoft.db
 DB += $(AUTOSAVE)/asApp/Db/save_restoreStatus.db
 
 #----------------------------------------------------

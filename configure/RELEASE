@@ -21,10 +21,13 @@
 
 TEMPLATE_TOP=$(EPICS_BASE)/templates/makeBaseApp/top
 
-include /epics/src/synApps_5_8/support/configure/RELEASE
+SUPPORT=/epics
+SSCAN=$(SUPPORT)/sscan
+AUTOSAVE=$(SUPPORT)/autosave
+CALC=$(SUPPORT)/calc
 
 # EPICS_BASE usually appears last so other apps can override stuff:
-EPICS_BASE=/epics/base
+EPICS_BASE=/epics/epics-base
 
 # Set RULES here if you want to take build rules from somewhere
 # other than EPICS_BASE:

@@ -1,5 +1,6 @@
 O.Common/
 O.darwin-x86/
+O.linux-x86_64/
 /db/
 dbd/
 lib/
